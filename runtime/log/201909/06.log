@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2019-09-06T13:12:53+08:00 ] 47.101.191.214 GET hyp.xuanchenkeji.com/index/user/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000466s ] mysql:host=127.0.0.1;dbname=fastadmin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fa_user_token` [ RunTime:0.000769s ]
+[ sql ] [ SQL ] SELECT * FROM `fa_user_token` WHERE  `token` = 'd8aa945b8448d8a41ab99c04b04f9e522294b47c' LIMIT 1 [ RunTime:0.000382s ]
